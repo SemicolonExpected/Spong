@@ -1,0 +1,7 @@
+/Users/omar/Downloads/FinalZhongVictoria/Final/SOIL/build/CMakeFiles/install/local.dir
+/Users/omar/Downloads/FinalZhongVictoria/Final/SOIL/build/CMakeFiles/install/strip.dir
+/Users/omar/Downloads/FinalZhongVictoria/Final/SOIL/build/CMakeFiles/install.dir
+/Users/omar/Downloads/FinalZhongVictoria/Final/SOIL/build/CMakeFiles/SOIL.dir
+/Users/omar/Downloads/FinalZhongVictoria/Final/SOIL/build/CMakeFiles/list_install_components.dir
+/Users/omar/Downloads/FinalZhongVictoria/Final/SOIL/build/CMakeFiles/rebuild_cache.dir
+/Users/omar/Downloads/FinalZhongVictoria/Final/SOIL/build/CMakeFiles/edit_cache.dir
