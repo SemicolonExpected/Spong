@@ -1,6 +1,6 @@
 # Spong
 
-##Build Instructions
+## Build Instructions
 
     git clone --recursive https://github.com/SemicolonExpected/Spong.git # --recursive flag is necessary for dependencies
     cd Spong
